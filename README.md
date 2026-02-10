@@ -1,6 +1,6 @@
 ## alltheseas
 
-I'm a open source and nostr contributor buidling:
+open source and nostr contributor buidling:
 
 🐞 **[bugstr](https://github.com/alltheseas/bugstr)** - zero-infrastructure bug reporting \
 🟣 **[damus](https://github.com/damus-io/damus)** - iOS Damus short note app with zaps \
@@ -10,4 +10,4 @@ I'm a open source and nostr contributor buidling:
 ⚡️ **[zapstore](https://github.com/zapstore/zapstore)** - the social app store built for app devs 
 
 
-📫 How to reach me: https://iris.to/npub1zafcms4xya5ap9zr7xxr0jlrtrattwlesytn2s42030lzu0dwlzqpd26k5
+https://iris.to/npub1zafcms4xya5ap9zr7xxr0jlrtrattwlesytn2s42030lzu0dwlzqpd26k5
