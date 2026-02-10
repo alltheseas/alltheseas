@@ -2,8 +2,8 @@
 
 I'm a open source and nostr contributor currently working on:
 
-🟣 **[damus](https://github.com/damus-io/damus)** - iOS Damus \
-🐰 **[notedeck](https://github.com/damus-io/notedeck)** - nostr browser \
+🟣 **[damus](https://github.com/damus-io/damus)** - iOS Damus short note app with zaps \
+🐰 **[notedeck](https://github.com/damus-io/notedeck)** - nostr egui browser \
 👀 **[nostrability](https://github.com/nostrability)** - left curve nostr interoperability tracker & JSON schema validation \
 ⚡️ **[zapstore](https://github.com/zapstore/zapstore)** - the social app store built for app devs \
 🐞 **[bugstr](https://github.com/alltheseas/bugstr)** - zero-infrastructure bug reporting \
