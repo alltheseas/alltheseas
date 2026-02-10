@@ -1,6 +1,6 @@
 ## alltheseas
 
-I'm a nostr contributor currently working on:
+I'm a open source and nostr contributor currently working on:
 
 🟣 **[damus](https://github.com/damus-io/damus)** - iOS Damus \
 🐰 **[notedeck](https://github.com/damus-io/notedeck)** - nostr browser \
