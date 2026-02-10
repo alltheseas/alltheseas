@@ -1,6 +1,6 @@
 ## alltheseas
 
-I'm a open source and nostr contributor currently working on:
+I'm a open source and nostr contributor buidling:
 
 🐞 **[bugstr](https://github.com/alltheseas/bugstr)** - zero-infrastructure bug reporting \
 🟣 **[damus](https://github.com/damus-io/damus)** - iOS Damus short note app with zaps \
