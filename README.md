@@ -7,4 +7,5 @@ open source contributor buidling:
 🎥 **[Lumina Video](https://github.com/lumina-video/lumina-video)** - zero-copy native A/V streaming rust SDK built on wgpu for egui \
 👀 **[nostrability](https://github.com/nostrability)** - left curve nostr interoperability tracker & JSON schema validation \
 🐰 **[notedeck](https://github.com/damus-io/notedeck)** - nostr egui browser \
+👨🏻‍🏭 **[telemoq](https://github.com/alltheseas/telemoq)** - MoQ for robot teleops — priority scheduling in field conditions \
 ⚡️ **[zapstore](https://github.com/zapstore/zapstore)** - the social app store built for app devs 
