@@ -6,6 +6,7 @@ open source contributor buidling:
 🟣 **[damus](https://github.com/damus-io/damus)** - iOS short note app with zaps \
 🎥 **[Lumina Video](https://github.com/lumina-video/lumina-video)** - zero-copy native A/V streaming rust SDK + MoQ \
 👀 **[nostrability](https://github.com/nostrability)** - left curve nostr interoperability tracker & JSON schema validation \
+📏 **[outbox benchmarks](https://github.com/nostrability/outbox)** - benchmarked outbox coverage, and nip-66 load time reductions \
 🐰 **[notedeck](https://github.com/damus-io/notedeck)** - nostr egui browser \
 👨🏻‍🏭 **[telemoq](https://github.com/alltheseas/telemoq)** - MoQ for robot teleops — priority scheduling in field conditions \
 ⚡️ **[zapstore](https://github.com/zapstore/zapstore)** - the social app store built for app devs
