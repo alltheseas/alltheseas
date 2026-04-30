@@ -2,4 +2,4 @@ open source contributor buidling:
 
 👀 **[nostrability](https://github.com/nostrability)** - nostr interop \
 🎥 **[Lumina Video](https://github.com/lumina-video/lumina-video)** - zero-copy native A/V streaming rust SDK + MoQ \
-👨🏻‍🏭 **[telemoq](https://github.com/alltheseas/telemoq)** - MoQ for robot teleops — priority scheduling in field conditions 
+⏱️ **[measuring-teleop](https://github.com/measuring-teleop)** - benchmarking robot teleops in non-ideal network conditions
